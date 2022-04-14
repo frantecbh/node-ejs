@@ -1,4 +1,4 @@
-# Frontend Mentor - EJS+NodeJS
+# RocketSeat Trilha Discovery - EJS+NodeJS
 
 Hi my name is Francisco Menezes
 
